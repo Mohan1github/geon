@@ -1,0 +1,14 @@
+fastapi
+pandas
+openai
+pypdf
+numpy
+openai-agent
+chromadb
+langchain
+langchain-community
+langchain-core
+python-dotenv
+langchain-groq
+wikipedia
+
